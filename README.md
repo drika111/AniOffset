@@ -1,6 +1,9 @@
 # AniOffset
 Blender Addon - Propagate pose transformation offsets across selected keyframes in the active Action Slot. Designed for use with rigged characters in Blender.
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~-Eng-~
+
 Hi everyone,
 
 I’ve developed a new add-on for Blender 5.1 (and newer) that lets you adjust multiple keyframes directly from the viewport. I’ve tested it thoroughly across different scenes and computers. The add-on is called Anim Offset Pro, because it helps you propagate pose adjustments across several keyframes at once. ✅
@@ -16,8 +19,8 @@ Important: If you want to undo a change made while the offset is active, press C
 
 I hope someone liked it and have fun using it! ^^~
 
-
-Pt (Br)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~-Pt (Br)-~
 
 Oi gente,
 

@@ -1,7 +1,7 @@
 # AniOffset
 Blender Addon - Propagate pose transformation offsets across selected keyframes in the active Action Slot. Designed for use with rigged characters in Blender.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
 ~-Eng-~
 
 Hi everyone,
@@ -19,7 +19,7 @@ Important: If you want to undo a change made while the offset is active, press C
 
 I hope someone liked it and have fun using it! ^^~
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 ~-Pt (Br)-~
 
 Oi gente,

@@ -4,7 +4,7 @@ Blender Addon - Propagate pose transformation offsets across selected keyframes 
 ---
 
 
-~-Eng-~
+-Eng-
 
 Hi everyone,
 
@@ -24,7 +24,7 @@ I hope someone liked it and have fun using it! ^^~
 ---
 
 
-~-Pt (Br)-~
+-Pt (Br)-
 
 Oi gente,
 
